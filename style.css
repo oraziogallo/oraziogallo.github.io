@@ -1,0 +1,94 @@
+/* h1 { font-family: "Open Sans"; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; }
+h3 { font-family: "Open Sans"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; }
+p { font-family: "Open Sans"; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; }
+blockquote { font-family: "Open Sans"; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; }
+pre { font-family: "Open Sans"; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; } */
+
+body {
+    font-family: 'Open Sans';
+    color: #666666;
+    font-size: 22px;
+    font-weight: 100;
+}
+
+a:link {color: #65AD14; text-decoration: none; }
+a:active {color: #65AD14; text-decoration: none; }
+a:visited {color: #65AD14; text-decoration: none; }
+a:hover {color: #65AD14; text-decoration: underline; }
+
+.title {
+  text-align: right;
+  width:1000px;
+  font-family: 'Open Sans'; 
+  font-weight: 100;
+  font-size: 60px;
+  color: #666666;
+  margin-bottom: 10px;
+}
+
+/* divs for the bio section */
+
+.bio {
+  width:1000px;
+  display:flex;
+  align-items:center | flex-start;
+  margin-bottom: 50px;
+}
+
+.biohgap {
+  float: left;
+  overflow: hidden;
+  height: 300px;
+  width: 100px;
+}
+
+.box {
+  width: 275px;
+  text-align: center;
+  vertical-align: top;
+  zoom: 1
+}
+
+.circularImage {
+  border-radius: 50%;
+}
+
+/* divs for the papers */
+
+.paper {
+  width:1000px;
+  height:105px;
+  display:flex;
+  align-items:center;
+}
+
+.paperhgap {
+  float: left;
+  overflow: hidden;
+  height: 105px;
+  width: 15px;
+}
+
+.papertitle {
+  text-align: left;
+  font-size: 18;
+}
+
+/* divs for the rest of the page */
+
+.sectitle {
+  text-align: center;
+  width:1000px;
+  margin-bottom: 10px;
+  font-family: 'Open Sans'; 
+  font-weight: 100;
+  font-size: 30px;
+  color: #666666;
+}
+
+.textsection {
+  text-align: left;
+  width:1000px;
+  margin-bottom: 50px;
+}
+
