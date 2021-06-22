@@ -26,6 +26,11 @@ a:hover {color: #65AD14; text-decoration: underline; }
   margin-bottom: 10px;
 }
 
+.scaledImg {
+  height: 1em;
+  width: auto;
+}
+
 /* divs for the bio section */
 
 .bio {
