@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | </title>
+    <link>https://oraziogallo.github.io/publication-type/2/</link>
+      <atom:link href="https://oraziogallo.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://oraziogallo.github.io/media/icon_hu8743d79343c0bbdfac6749c310826220_3707_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://oraziogallo.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Computational Zoom: A Framework for Post-Capture Image Composition</title>
+      <link>https://oraziogallo.github.io/publication/badki2017compzoom/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/badki2017compzoom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loss Functions for Image Restoration with Neural Networks</title>
+      <link>https://oraziogallo.github.io/publication/zhao2017losses/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/zhao2017losses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FlexISP: A Flexible Camera Image Processing Framework</title>
+      <link>https://oraziogallo.github.io/publication/heide2014flexisp/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/heide2014flexisp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating the Visual Experience of Very Bright and Very Dark Scenes</title>
+      <link>https://oraziogallo.github.io/publication/jacobs2015gaze/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/jacobs2015gaze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CC-RANSAC: Fitting Planes in the Presence of Multiple Surfaces in Range Data</title>
+      <link>https://oraziogallo.github.io/publication/gallo2012ccransac2/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/gallo2012ccransac2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading 1D Barcodes with Mobile Phones Using Deformable Templates</title>
+      <link>https://oraziogallo.github.io/publication/gallo2011barcodes/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/gallo2011barcodes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

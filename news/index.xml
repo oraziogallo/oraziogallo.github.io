@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | </title>
+    <link>https://oraziogallo.github.io/news/</link>
+      <atom:link href="https://oraziogallo.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://oraziogallo.github.io/media/icon_hu8743d79343c0bbdfac6749c310826220_3707_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>https://oraziogallo.github.io/news/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://oraziogallo.github.io/news/2023-10_awards/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/news/2023-10_awards/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Outstanding Editorial Board Member Award for my service to the IEEE Trans. on Comp. Imaging.&lt;/li&gt;
+&lt;li&gt;Outstanding Reviewer Award for CVPR 2017, CVPR 2018, CVPR 2021, ICCV 2021, and BMVC 2021.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://oraziogallo.github.io/news/2023-11_accepted/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/news/2023-11_accepted/</guid>
+      <description>&lt;p&gt;News 22&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

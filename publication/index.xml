@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | </title>
+    <link>https://oraziogallo.github.io/publication/</link>
+      <atom:link href="https://oraziogallo.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://oraziogallo.github.io/media/icon_hu8743d79343c0bbdfac6749c310826220_3707_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://oraziogallo.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Zero-shot Pose Transfer for Unrigged Stylized 3D Characters</title>
+      <link>https://oraziogallo.github.io/publication/wang2023posetransfer/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/wang2023posetransfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos</title>
+      <link>https://oraziogallo.github.io/publication/prashnani2023avatar/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/prashnani2023avatar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Geometry-aware 3D Generative Adversarial Networks</title>
+      <link>https://oraziogallo.github.io/publication/chan2021eg3d/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/chan2021eg3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watch It Move: Unsupervised Discovery of 3D Joints for Re-Posing of Articulated Objects</title>
+      <link>https://oraziogallo.github.io/publication/noguchi2022watch/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/noguchi2022watch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noise-Aware Video Saliency Prediction</title>
+      <link>https://oraziogallo.github.io/publication/prashnani2021noiseawarevs/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/prashnani2021noiseawarevs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binary TTC: A Temporal Geofence for Autonomous Navigation</title>
+      <link>https://oraziogallo.github.io/publication/badki2021bittc/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/badki2021bittc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Trajectory Fields for Dynamic Novel View Synthesis</title>
+      <link>https://oraziogallo.github.io/publication/wang2021neuraltf/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/wang2021neuraltf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative View Synthesis: From Single-view Semantics to Novel-view Images</title>
+      <link>https://oraziogallo.github.io/publication/habtegebrial2020generativevs/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/habtegebrial2020generativevs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi3D: Stereo Depth Estimation via Binary Classifications</title>
+      <link>https://oraziogallo.github.io/publication/badki2020bi3d/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/badki2020bi3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meshlet Priors for 3D Mesh Reconstruction</title>
+      <link>https://oraziogallo.github.io/publication/badki2020meshlets/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/badki2020meshlets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel View Synthesis of Dynamic Scenes With Globally Coherent Depths From a Monocular Camera</title>
+      <link>https://oraziogallo.github.io/publication/yoon2020novelvs/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/yoon2020novelvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extreme View Synthesis</title>
+      <link>https://oraziogallo.github.io/publication/choi2019evs/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/choi2019evs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Stitching for Linear Camera Arrays</title>
+      <link>https://oraziogallo.github.io/publication/lai2019stitching/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/lai2019stitching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pixel-Adaptive Convolutional Neural Networks</title>
+      <link>https://oraziogallo.github.io/publication/su2019pac/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/su2019pac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fusion Approach for Multi-Frame Optical Flow Estimation</title>
+      <link>https://oraziogallo.github.io/publication/ren2019fusion/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/ren2019fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separating Reflection and Transmission Images in the Wild</title>
+      <link>https://oraziogallo.github.io/publication/wieschollek2018reflections/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/wieschollek2018reflections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tackling 3D ToF Artifacts Through Learning and the FLAT Dataset</title>
+      <link>https://oraziogallo.github.io/publication/guo2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/guo2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reblur2Deblur: Deblurring Videos via Self-Supervised Learning</title>
+      <link>https://oraziogallo.github.io/publication/chen2018deblur/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/chen2018deblur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Zoom: A Framework for Post-Capture Image Composition</title>
+      <link>https://oraziogallo.github.io/publication/badki2017compzoom/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/badki2017compzoom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstructing Intensity Images from Binary Spatial Gradient Cameras</title>
+      <link>https://oraziogallo.github.io/publication/jayasuriya2017gradient/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/jayasuriya2017gradient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loss Functions for Image Restoration with Neural Networks</title>
+      <link>https://oraziogallo.github.io/publication/zhao2017losses/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/zhao2017losses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locally Non-Rigid Registration for Mobile HDR Photography</title>
+      <link>https://oraziogallo.github.io/publication/gallo2015fastnrr/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/gallo2015fastnrr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrieving Gray-Level Information from a Binary Sensor and its Application to Gesture Detection</title>
+      <link>https://oraziogallo.github.io/publication/gallo2015binary/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/gallo2015binary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FlexISP: A Flexible Camera Image Processing Framework</title>
+      <link>https://oraziogallo.github.io/publication/heide2014flexisp/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/heide2014flexisp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating the Visual Experience of Very Bright and Very Dark Scenes</title>
+      <link>https://oraziogallo.github.io/publication/jacobs2015gaze/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/jacobs2015gaze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Image Stacks</title>
+      <link>https://oraziogallo.github.io/publication/jacobs2014dynamic/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/jacobs2014dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HDR Deghosting: How to deal with Saturation?</title>
+      <link>https://oraziogallo.github.io/publication/hu2013hdr/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/hu2013hdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exposure Stacks for Live Scenes with Hand-held Cameras</title>
+      <link>https://oraziogallo.github.io/publication/hu2012stacks/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/hu2012stacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metering for Exposure Stacks</title>
+      <link>https://oraziogallo.github.io/publication/gallo2012metering/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/gallo2012metering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CC-RANSAC: Fitting Planes in the Presence of Multiple Surfaces in Range Data</title>
+      <link>https://oraziogallo.github.io/publication/gallo2012ccransac2/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/gallo2012ccransac2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading 1D Barcodes with Mobile Phones Using Deformable Templates</title>
+      <link>https://oraziogallo.github.io/publication/gallo2011barcodes/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/gallo2011barcodes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
