@@ -5,12 +5,20 @@
     <link>https://oraziogallo.github.io/publication-type/1/</link>
       <atom:link href="https://oraziogallo.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://oraziogallo.github.io/media/icon_hu8743d79343c0bbdfac6749c310826220_3707_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://oraziogallo.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Field-of-View Agnostic Depth Estimation for Cross-Dataset Generalization</title>
+      <link>https://oraziogallo.github.io/publication/lichy2024fovagnostic/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/lichy2024fovagnostic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Zero-shot Pose Transfer for Unrigged Stylized 3D Characters</title>
