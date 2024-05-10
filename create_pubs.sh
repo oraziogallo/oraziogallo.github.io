@@ -1,1 +1,0 @@
-python ../lpr-website/bib_import/src/import_bib.py -f publications.bib -d content/publication/ -o
