@@ -5,12 +5,20 @@
     <link>https://oraziogallo.github.io/publication/</link>
       <atom:link href="https://oraziogallo.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://oraziogallo.github.io/media/icon_hu8743d79343c0bbdfac6749c310826220_3707_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://oraziogallo.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos</title>
+      <link>https://oraziogallo.github.io/publication/prashnani2023avatar/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://oraziogallo.github.io/publication/prashnani2023avatar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FoVA-Depth: Field-of-View Agnostic Depth Estimation for Cross-Dataset Generalization</title>
@@ -25,14 +33,6 @@
       <link>https://oraziogallo.github.io/publication/wang2023posetransfer/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://oraziogallo.github.io/publication/wang2023posetransfer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos</title>
-      <link>https://oraziogallo.github.io/publication/prashnani2023avatar/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://oraziogallo.github.io/publication/prashnani2023avatar/</guid>
       <description></description>
     </item>
     
