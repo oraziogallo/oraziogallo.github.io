@@ -38,8 +38,9 @@ if [[ $publish -eq 1 ]]; then
     hugo -d docs
     # Push to external
     git add docs/*
+    git commit -m"Building newest website version"
     git pull --rebase
-    # git push
+    git push
     else
     # Start local
     CACHE_NAME='../cache/'
