@@ -71,7 +71,7 @@ I am a senior associate editor of the [IEEE
     Transactions on Computational Imaging]("http://signalprocessingsociety.org/publications-resources/ieee-transactions-computational-imaging"). From 2018 to 2022 I was a member of the [IEEE
     Computational Imaging Technical Committee]("http://signalprocessingsociety.org/get-involved/computational-imaging-special-interest-group"), and from 2015 to 2017 I was an associate editor for [Signal processing:
     Image Communication]("https://www.journals.elsevier.com/signal-processing-image-communication").<br>
-
+<!-- 
 **Want to join?**
 
-If you have similar research interests including, but not limited to anything 3D (e.g., monocular/multi-view depth estimation, SLAM, SfM, etc.), anything optical/scene flow, anything novel view synthesis, please reach out. We have internships (for PhD students) and full-time positions. Shoot me an [email](mailto:ogallo@nvidia.com)!
+If you have similar research interests including, but not limited to anything 3D (e.g., monocular/multi-view depth estimation, SLAM, SfM, etc.), anything optical/scene flow, anything novel view synthesis, please reach out. We have internships (for PhD students) and full-time positions. Shoot me an [email](mailto:ogallo@nvidia.com)! -->
