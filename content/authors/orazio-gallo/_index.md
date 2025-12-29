@@ -77,7 +77,7 @@ Here's a few, in no particular order:
 - Dr. [Jae Shin Yoon](https://gorokee.github.io/jsyoon/) (now with Adobe Research)
 - Dr. [Daniel Lichy](https://dlichy.github.io/) (now with Kitware)
 - Prof. [Hang Zhao](https://hangzhaomit.github.io/) (now at Tsinghua University)
-- Dr. [Yiqing Liang](https://lynl7130.github.io/) (now with Snap)
+- Dr. [Yiqing Liang](https://lynl7130.github.io/) (now with Luma AI)
 - Prof. [Suren Jayasuriya](https://sites.google.com/asu.edu/imaging-lyceum/team/current-members) (now at ASU)
 - Prof. [Qi Guo](https://www.qiguo.org/pi) (now at Purdue)
 - Prof. Chenyang Lei (now Prof. at CAIR)
@@ -93,6 +93,6 @@ Here's a few, in no particular order:
 - Seokju Cho (PhD student at KAIST)
 
 I have served as area chair or senior area chair for several IEEE conferences (CVPR, ICCV, ECCV, WACV, and 3DV). I was an associate editor and then senior associate editor of the [IEEE  Transactions on Computational Imaging]("http://signalprocessingsociety.org/publications-resources/ieee-transactions-computational-imaging") from 2020 to 2024. From 2018 to 2022 I was a member of the [IEEE Computational Imaging Technical Committee]("http://signalprocessingsociety.org/get-involved/computational-imaging-special-interest-group"), and from 2015 to 2017 I was an associate editor for [Signal processing: Image Communication]("https://www.journals.elsevier.com/signal-processing-image-communication").
-I got recognized as an outstanding reviewer for BMVC (2021), ICCV (2021), and CVPR (2017, 2018, 2021). I was also recognized as an 0utstanding editorial board member for my services to IEEE Trans. on Comp. Imaging (2020).
+I got recognized as an outstanding reviewer for BMVC (2021), ICCV (2021), and CVPR (2017, 2018, 2021). I was also recognized as an outstanding editorial board member for my services to IEEE Trans. on Comp. Imaging (2020).
 
 I am taking a break from research and tech for a bit. You can probably find me on the beach training for next year's beach volleyball season, or via email (first_name @ soe.ucsc.edu).   
