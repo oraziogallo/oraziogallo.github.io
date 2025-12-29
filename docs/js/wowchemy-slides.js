@@ -1,5 +1,5 @@
 (() => {
-  // ns-hugo-params:<stdin>
+  // ns-params:@params
   var slides = { highlight_style: "dracula", theme: "black" };
 
   // <stdin>
