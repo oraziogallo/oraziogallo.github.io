@@ -17,12 +17,12 @@ superuser: false
 # role: Principal Scientist and Senior Research Manager
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: NVIDIA Research
-    url: https://www.nvidia.com/en-us/research/
+# organizations:
+#   - name: NVIDIA Research
+#     url: https://www.nvidia.com/en-us/research/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm interested in low-level computer vision (e.g., depth estimation, optical flow, etc.) and computational imaging, with a focus on robotics and autonomous navigation applications.
+bio: I'm interested in computer vision perception and computational imaging, with a focus on robotics and autonomous navigation applications.
 
 # Interests to show in About widget
 # interests:

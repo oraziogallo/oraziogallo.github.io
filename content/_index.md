@@ -57,34 +57,4 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: markdown
-    content:
-      title: Professional Service Awards
-      subtitle: ''
-      # TODO: move the actual text to a different file, so that content doesn't live here
-      text: "
-      * Outstanding Reviewer Award BMVC 2021
-      
-      * Outstanding Reviewer Award ICCV 2021
-      
-      * Outstanding Reviewer Award CVPR 2021
-      
-      * Outstanding Editorial Board Member Award IEEE Trans. on Comp. Imaging 2020
-      
-      * Outstanding Reviewer Award CVPR 2018
-      
-      * Outstanding Reviewer Award CVPR 2017
-      "
-      
-    design:
-      columns: '2'
-  - block: markdown
-    content:
-      title: Previous Interns
-      subtitle: ''
-      # TODO: move the actual text to a different file, so that content doesn't live here
-      text: "Over the years, I've been extremely lucky to collaborate with a number of students now off to doing amazing things on their own, with some working with me at NVIDIA! Here's a few:
-      David E. Jacobs, Jun Hu, Felix Heide, Hang Zhao, Abhishek Badki, Huaijin (George) Chen, Suren Jayasuriya, Qi Guo, Patrick Wieschollek, Zhile Ren, Hang Su, Wei-Sheng (Jason) Lai, Inchang Choi, Jae Shin Yoon, Tewodros Habtegebrial, Ekta Prashnani, Chaoyang Wang, Atsuhiro Noguchi."
-    design:
-      columns: '1'
 ---

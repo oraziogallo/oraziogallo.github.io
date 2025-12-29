@@ -1,0 +1,11 @@
+/* Make all list items more compact */
+li {
+  margin-bottom: 0.025rem; /* Adjust this number to your liking */
+}
+
+/* Optional: Fix line height for very dense text */
+li p {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  line-height: 1; /* Adjust this number to your liking */
+}

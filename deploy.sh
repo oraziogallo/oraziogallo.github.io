@@ -31,7 +31,7 @@ shift "$((OPTIND - 1))"
 # Remove the current publications but NOT the _index.md file in the publication directory!!!
 rm -rf ./content/publication/*/
 # Generate the publication information
-python ../lpr-website/bib_import/src/import_bib.py -f publications.bib -d content/publication/
+python ~/src/bib_parser/src/import_bib.py -f publications.bib -d content/publication/
 
 if [[ $publish -eq 1 ]]; then
     # Build the website
