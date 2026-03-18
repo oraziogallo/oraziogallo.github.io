@@ -67,7 +67,7 @@ highlight_name: true
 ---
 I was a Principal Research Scientist and Senior Research Manager at NVIDIA Research. In the amazing 15 years I spent there, I worked on a wide range of topics and projects, ranging from computational photography, low-level computer vision perception, human visual perception, and content capture/generation.
 
-During my tenure at NVIDIA I mentored or co-mentored stellar students now off to doing amazing things on their own. Interns were to me what grad students are to professors, so I'm hoping I made some small contribution to their career. But most of all, I'm thankful for the opportunity to have worked with them.
+During my tenure at NVIDIA I mentored or co-mentored stellar students now off to doing amazing things on their own. I hope I made a small contribution to their career. But most of all, I'm thankful for the opportunity to have worked with them.
 Here's a few, in no particular order:
 - Dr. [Abhishek Badki](https://abadki.github.io/) (now with NVIDIA Research)
 - Dr. [Hang Su](https://suhangpro.github.io/) (now with NVIDIA Research)
